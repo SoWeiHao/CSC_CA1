@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Upload Talent Photo</title>
+    <link rel="stylesheet" href="mystyle.css" />
+
+</head>
+<body>
+    <form method="post"
+          enctype="multipart/form-data">
+        <label for="search">Live Upload</label>
+        <p>Upload a photo of the talent to AWS</p>
+        <input type="file" id="img" name="img" accept="image/*">
+
+        <input type="submit" value="submit">
+        <progress id="fileprogress" value="0" max="100">  </progress>
+
+    </form>
+    <div id="imgdiv"></div>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.357.0.min.js"></script>
+
+    <script src="jquery.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
