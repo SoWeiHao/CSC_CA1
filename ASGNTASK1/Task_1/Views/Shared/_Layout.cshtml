@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<title>@ViewBag.Title</title>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    <script src="~/Scripts/noty/jquery.noty.js"></script>
+    <script src="~/Scripts/noty/themes/bootstrap.js"></script>
+    <script src="~/Scripts/noty/themes/default.js"></script>
+    <script src="~/Scripts/noty/themes/relax.js"></script>
+    <script src="~/Scripts/noty/layouts/center.js"></script>
+    @RenderBody()
+    @RenderSection("scripts", required: false)
+</body>
+</html>

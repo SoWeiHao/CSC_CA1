@@ -1,0 +1,38 @@
+﻿<div class="jumbotron">
+    <h1>CSC Assignment Task 1 C#</h1> <h2 style="cursor: pointer;">JQuery Version</h2>
+    <input type="button" class="btn btn-primary" value="Call NEA Weather Service API" id="retrieveWeatherDetailsButton" /><br />
+    <div id="weatherDetails"></div><br />
+</div>
+<br />
+
+@section scripts{
+    <script>
+        jQuery('#retrieveWeatherDetailsButton').on('click', function () {
+
+            $.ajax({
+                url: '/api/weatherDetails',
+                method: 'GET',
+                dataType: 'json',
+                async: true,
+                cache: true,
+            }).done(function (data) {
+                var displayData = document.getElementById("weatherDetails");
+                displayData.append(data);
+                console.log(data);
+            }).fail(function () {
+                new noty({
+                    text: "The system has encountered problem consuming the API. Please retry.",
+                    theme: 'relax',
+                    layout: 'center',
+                    timeout: 5000,
+                    type: 'error'
+                }).show();
+            });//End of ajax().done()
+
+        })
+
+        $('h2').on('click', function () {
+            location.href = "http://localhost:50533";
+        });
+    </script>
+}
