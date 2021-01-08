@@ -1,0 +1,93 @@
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.exe
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.deps.json
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.pdb
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\DotNetEnv.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.MvcApplicationPartsAssemblyInfo.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.xml
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\scopedcss\bundle\server.styles.css
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.RazorTargetAssemblyInfo.cache
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.dll
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.pdb
+C:\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\DotNetEnv.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.xml
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\scopedcss\bundle\server.styles.css
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.RazorTargetAssemblyInfo.cache
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\mattl\Downloads\checkout-single-subscription-master\server\dotnet\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\DotNetEnv.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\staticwebassets\server.StaticWebAssets.xml
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\scopedcss\bundle\server.styles.css
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.RazorTargetAssemblyInfo.cache
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\mattl\Downloads\CSC Final Submission for GitHub Submission\ASGNTASK6\ASGNTASK6\server\dotnet\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache

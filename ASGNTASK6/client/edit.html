@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Stripe Checkout Sample</title>
+    <meta name="description" content="A demo of Stripe Payment Intents" />
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/global.css" />
+    <!-- Load Stripe.js on your website. -->
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="./subscript.js" defer></script>
+    <script src="jquery.js"></script>
+
+</head>
+
+<body>
+    <div class="togethere-background"></div>
+    <div class="sr-root">
+        <div class="sr-main">
+            <header class="sr-header">
+                <div class="sr-header__logo"></div>
+            </header>
+            <h1>Edit Subs Item</h1>
+            <input type="search" name="search" id="search" placeholder="subs id" />            <div id="current"></div>
+            <div style="display:none;" id="sid"></div>
+            <div id="current"></div>
+
+            <div id="update"></div>
+            <button id="updatebtn" type="button">Update Plan</button>
+            <button id="deletebtn" type="button">Cancel Subscription</button>
+
+        </div>
+    </div>
+    <div id="error-message" class="error-message"></div>
+</body>
+</html>
