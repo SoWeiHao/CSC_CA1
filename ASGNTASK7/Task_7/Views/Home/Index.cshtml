@@ -1,0 +1,100 @@
+﻿<div class="jumbotron">
+    <h1>Task 7</h1>
+</div>
+<input type="file" id="inputFile" name="filename">
+<div class="image-preview" id="imagePreview">
+    <img src="" alt="Image Preview" class="image-preview__image" />
+</div><br /><br />
+<input type="button" class="btn btn-primary" value="Tag Image" id="tagButton" />
+<div class="row">
+    <div id="outputTagData"></div>
+</div><br /><br />
+<input type="button" class="btn btn-primary" value="Upload Receipt" id="receiptButton" /><br /><br />
+<div class="row">
+    <div id="outputData"></div>
+</div>
+
+@section scripts{
+    <script>
+        jQuery('#tagButton').on('click', function () {
+            $('#outputData').empty();
+            loadData();
+            function loadData() {
+                $.ajax({
+                    method:
+                        'POST',
+                    url: `/api/imageRecognition/${fileNameFirst}/${fileNameSecond}`,
+                    dataType: 'json',
+                    async: true,
+                    cache: false,
+                }).done(function (data) {
+                    console.log(data);
+                    var displayData = document.getElementById("outputTagData");
+                    displayData.append(data);
+                }).fail(function (jqXHR) {
+                    if (parseInt(jqXHR.status) === 400) {
+                        window.alert("Error, please try again")
+                    }
+                });//End of ajax().done()//End of ajax().done()
+            }//End of loadData
+        })
+
+        jQuery('#receiptButton').on('click', function () {
+            $('#outputData').empty();
+            loadData();
+            function loadData() {
+                $.ajax({
+                    method:
+                        'POST',
+                    url: `/api/receiptRecognition/${fileNameFirst}/${fileNameSecond}`,
+                    dataType: 'json',
+                    async: true,
+                    cache: false,
+                }).done(function (data) {
+                    var totalData = (JSON.parse(data)).total;
+                    console.log(totalData);
+                    console.log(data);
+                    var displayData = document.getElementById("outputData");
+                    if (totalData === 0) {
+                        displayData.append("Image uploaded is not a receipt.");
+                    }
+                    else {
+                        displayData.append("Total amount of receipt: $" + totalData);
+                    }
+                }).fail(function (jqXHR) {
+                    if (parseInt(jqXHR.status) === 400) {
+                        window.alert("Error, please try again")
+                    }
+                });//End of ajax().done()//End of ajax().done()
+            }//End of loadData
+        })
+
+        const inputFile = document.getElementById('inputFile');
+        const previewElement = document.getElementById('imagePreview');
+        const previewImage = previewElement.querySelector(".image-preview__image")
+        var fileNameFirst = "";
+        var fileNameSecond = "";
+
+        inputFile.addEventListener("change", function () {
+            const file = this.files[0];
+
+            if (file) {
+                const reader = new FileReader();
+
+                reader.addEventListener("load", function () {
+                    console.log(this);
+                    previewImage.setAttribute("src", this.result);
+                });
+                reader.readAsDataURL(file);
+                var fullFileName = inputFile.value.split("\\").pop();
+                fileNameFirst = fullFileName.substr(0, fullFileName.lastIndexOf("."));
+                fileNameSecond = fullFileName.split(".").pop();
+                console.log(fullFileName);
+                console.log(fileNameFirst);
+                console.log(fileNameSecond);
+            } else {
+                window.alert("Invalid image file uploaded");
+            }
+        });
+    </script>
+}
